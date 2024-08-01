@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AngularASP.NETCoreFrontBackEnd.Server.props" />
+</Project>
